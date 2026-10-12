@@ -61,15 +61,7 @@ Welcome to my GitHub profile! I am a Software Engineering student.
 
 ---
 
-### 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=truonggiang28-ttg&theme=react-dark" alt="GitHub Activity Graph" width="100%" />
-</p>
-
----
-
-### 🐍 Fun Fact: Commit Snake
+### 🐍 Activity
 
 <p align="center">
   <picture>
