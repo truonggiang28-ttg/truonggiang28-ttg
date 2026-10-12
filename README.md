@@ -2,10 +2,17 @@
 
 Welcome to my GitHub profile! I am a Software Engineering student.
 
-- 🔭 I’m currently working on software development.
-- 🌱 I’m currently expanding my knowledge in system architecture, backend development, and DevOps.
-- 💬 Ask me about **Kotlin, Java, C#, C/C++**.
+### 📧 Connect with Me
 
+<p align="center">
+  <a href="https://github.com/truonggiang28-ttg"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="450" />
+</p>
 ---
 
 ### 🚀 Tech Universe
@@ -82,15 +89,3 @@ Welcome to my GitHub profile! I am a Software Engineering student.
 </p>
 
 ---
-
-### 📧 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/truonggiang28-ttg"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your_linkedin"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="450" />
-</p>
