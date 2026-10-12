@@ -8,8 +8,8 @@ Welcome to my GitHub profile!
 
 <p align="center">
   <a href="https://github.com/truonggiang28-ttg"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:truonggiang121604@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/giang-thái-trường-1a668a440"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=truonggiang121604@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/giang-th%C3%A1i-tr%C6%B0%E1%BB%9Dng-1a668a440"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
