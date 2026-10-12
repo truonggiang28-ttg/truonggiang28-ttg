@@ -69,15 +69,6 @@ Welcome to my GitHub profile! I am a Software Engineering student.
 
 ---
 
-### 📈 GitHub Analytics & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=truonggiang28-ttg&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=truonggiang28-ttg&theme=dark" alt="GitHub Streak" width="48%" />
-</p>
-
----
-
 ### 🐍 Fun Fact: Commit Snake
 
 <p align="center">
